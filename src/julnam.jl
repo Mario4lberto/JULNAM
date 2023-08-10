@@ -213,7 +213,7 @@ function  buscar_engrupo(identificado)
 end
 
 
-glade = GtkBuilder(filename = "JULNAM.glade")
+glade = GtkBuilder(filename = "C:\\Users\\mfmin\\OneDrive\\Escritorio\\JULNAM\\src\\JULNAM.glade")
 
 window = glade["window"]
 label = glade["firma"]
