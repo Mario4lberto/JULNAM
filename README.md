@@ -18,7 +18,7 @@ Se opto por usar Python y Julia para la fase de prueba de código de proyecto co
 <img width="114" alt="image" src="https://github.com/Mario4lberto/JULNAM/assets/136736346/5bb60b83-224c-4567-8316-7dd87beefb89">
 
 ###
-En la implementación de la aplicación opté por usar Julia debido a su rapidez de ejecución computacional, el mayor problema fue implemntar número muy grandes por lo que en esta versión prototipo las claves privadas no aceptan claves muy largas en caracteres y solo acepta números.
+En la implementación de la aplicación opté por usar Julia debido a su rapidez de ejecución computacional, el mayor problema fue implementar números muy grandes por lo que en esta versión prototipo las claves privadas no aceptan claves muy largas en caracteres y solo acepta números.
 
 ### Descripción de lo que está simulando, analizando o demostrando.
 Lo que se simula es un mecanísmo de auntenticación de firma digital con clave privada 
