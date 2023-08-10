@@ -212,7 +212,7 @@ function  buscar_engrupo(identificado)
     
 end
 
-
+#Profe Oscar en está línea tiene que poner el path completo en donde descargó el repositorio para que le corra la GUI
 glade = GtkBuilder(filename = "C:\\Users\\mfmin\\OneDrive\\Escritorio\\JULNAM\\src\\JULNAM.glade")
 
 window = glade["window"]
