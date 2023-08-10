@@ -44,7 +44,10 @@ Resuelve problemas de aplicación (función con radicales)
 ### Justificación de cómo ayuda al alumno a comprender el tema
 
 La aplicación de las funciones polinomiales (en esta secuencia una función con radical como lo es una curva elíptica) son variados y se utilizan para resolver muchos problemas en otras ciencias, por mencionar los siguientes:
+###
 -En construcción, ingeniería civil y arquitectura
+###
+
 ![image](https://github.com/Mario4lberto/JULNAM/assets/136736346/97d84803-7ba6-4e60-a2e6-8ebaf399448d)
 ###
 -En Ingeniería forestal, por ejemplo, necesitamos la geometría para calcular áreas, pero también los polinomios en problemas como calcular cuántos árboles necesitamos replantar después de haber talado una zona de un bosque.
